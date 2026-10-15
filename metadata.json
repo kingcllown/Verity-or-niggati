@@ -1,0 +1,6 @@
+{
+  "name": "Aegis VPN",
+  "description": "Ultra-secure, ultra-fast high-performance VPN with military-grade encryption, WireGuard protocol, kill switch, and global servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

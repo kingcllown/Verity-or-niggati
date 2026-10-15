@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aegis VPN</string>
+    <string name="vpn_service_label">Aegis Secure VPN Service</string>
+    <string name="notification_channel_name">VPN Bağlantı Durumu</string>
+    <string name="notification_channel_desc">VPN aktif bağlantı ve güvenlik bildirimleri</string>
+    <string name="status_connected">BAĞLANDI - GÜVENLİ</string>
+    <string name="status_connecting">GÜVENLİ TÜNEL OLUŞTURULUYOR...</string>
+    <string name="status_disconnecting">BAĞLANTI KESİLİYOR...</string>
+    <string name="status_disconnected">BAĞLANTI YOK - KORUMASIZ</string>
+    <string name="tap_to_connect">GÜVENLİ BAĞLAN</string>
+    <string name="tap_to_disconnect">BAĞLANTIYI KES</string>
+    <string name="security_score_title">GÜVENLİK DERECESİ</string>
+    <string name="kill_switch_active">Kill Switch Aktif</string>
+    <string name="dns_leak_protected">DNS Sızıntı Koruması</string>
+    <string name="smart_connect">Akıllı Bağlantı (En Hızlı)</string>
+</resources>
